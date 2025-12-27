@@ -35,9 +35,4 @@ For more details, please refer to the full **Privacy Policy**.
 
 ---
 
-## App version
-Version 1.0
-
----
-
 If something doesn’t work as expected, please include your device model and iOS version when contacting support.
