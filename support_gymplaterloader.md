@@ -22,12 +22,16 @@ Plates are calculated per side based on your selected bar weight and the availab
 When enabled, the app rounds down to the nearest weight that can be loaded using available plates.
 
 ### Does the app work offline?
-Yes. Gym Plate Loader works completely offline.
+Yes. Gym Plate Loader works completely offline for all calculations.
 
 ---
 
 ## Privacy
-Gym Plate Loader does not require an account and does not collect personal data.
+Gym Plate Loader does not require account creation and does not collect personal information such as your name or email address.
+
+The app uses **analytics** to understand general usage patterns and improve functionality. This data is anonymized and is not used to identify individual users.
+
+For more details, please refer to the full **Privacy Policy**.
 
 ---
 
